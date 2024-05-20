@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1707694105 source:c:\users\asus\downloads\whatever\nacuagh_he2_doublyll\dll.c
+	"dLL.h"
+
+1707641881 c:\users\asus\downloads\whatever\nacuagh_he2_doublyll\dll.h
+	<stdio.h>
+	<stdlib.h>
+
+1707641994 source:c:\users\asus\downloads\whatever\nacuagh_he2_doublyll\main.c
+	"dLL.h"
+
+1710082326 source:c:\users\asus\downloads\project mahoraga!!!!\nacuagh_he2_doublyll-1\nacuagh_he2_doublyll\dll.c
+	"dLL.h"
+
+1710081923 c:\users\asus\downloads\project mahoraga!!!!\nacuagh_he2_doublyll-1\nacuagh_he2_doublyll\dll.h
+	<stdio.h>
+	<stdlib.h>
+
+1710082325 source:c:\users\asus\downloads\project mahoraga!!!!\nacuagh_he2_doublyll-1\nacuagh_he2_doublyll\main.c
+	"dLL.h"
+

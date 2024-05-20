@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1707317676 source:c:\users\vinka\downloads\villariza sll\villarizavi_he1_singlyll\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list_headers.h"
+
+1707317658 c:\users\vinka\downloads\villariza sll\villarizavi_he1_singlyll\list_headers.h
+
+1707318565 source:c:\users\vinka\downloads\villariza sll\villarizavi_he1_singlyll\linkedlists.c
+	<stdio.h>
+	<stdlib.h>
+	"list_headers.h"
+

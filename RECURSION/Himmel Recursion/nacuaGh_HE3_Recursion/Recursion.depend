@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1708263321 source:c:\users\asus\downloads\floringi_he3_recursion-20240218t133053z-001\floringi_he3_recursion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+	"operations.h"
+
+1708308483 c:\users\asus\downloads\floringi_he3_recursion-20240218t133053z-001\floringi_he3_recursion\operations.h
+
+1708308483 source:c:\users\asus\downloads\floringi_he3_recursion-20240218t133053z-001\floringi_he3_recursion\operations.c
+	<stdio.h>
+	<stdlib.h>
+	"operations.h"
+
+1708308546 source:c:\users\asus\downloads\floringi_he3_recursion-20240218t133053z-001\nacuagh_he3_recursion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+	"operations.h"
+
+1708308674 c:\users\asus\downloads\floringi_he3_recursion-20240218t133053z-001\nacuagh_he3_recursion\operations.h
+
+1708308483 source:c:\users\asus\downloads\floringi_he3_recursion-20240218t133053z-001\nacuagh_he3_recursion\operations.c
+	<stdio.h>
+	<stdlib.h>
+	"operations.h"
+

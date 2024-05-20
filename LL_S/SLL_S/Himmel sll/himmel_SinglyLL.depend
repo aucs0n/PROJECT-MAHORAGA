@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1710082015 source:c:\users\asus\downloads\project mahoraga!!!!\nacuagh_he1_singlyll\nacuagh_he1_singlyll\main.c
+	"sLL.h"
+
+1710081916 c:\users\asus\downloads\project mahoraga!!!!\nacuagh_he1_singlyll\nacuagh_he1_singlyll\sll.h
+	<stdio.h>
+	<stdlib.h>
+
+1710082015 source:c:\users\asus\downloads\project mahoraga!!!!\nacuagh_he1_singlyll\nacuagh_he1_singlyll\sll.c
+	"sLL.h"
+
